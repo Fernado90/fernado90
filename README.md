@@ -1,8 +1,6 @@
 ## Olá! Eu sou Fernando Noleto Primo👋
 
 # ![snake gif](https://github.com/Fernado90/Fernado90/blob/output/github-contribution-grid-snake.gif)
-#
-
 - 🧑‍🎓 Olá, Sou aluno no curso de Ciencia de Dados.
 - 💻 Power BI|SQL|Excel|Python
 - ✉️ contate-me no email: fernando.i9seguro@gmail.com
